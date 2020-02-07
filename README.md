@@ -1,4 +1,4 @@
 # JAVA
 My Java Practice
 
-This is a Speed Converter in Java
+These are the practice programs.
