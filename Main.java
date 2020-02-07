@@ -1,10 +1,8 @@
-package com.bhuvesh;
-
 public class Main {
-
     public static void main(String[] args) {
-
-        System.out.println(AreaCalculator.area(10));
-        System.out.println(AreaCalculator.area(15,25));
+        BarkingDog.shouldWakeUp(true, 1);
+        BarkingDog.shouldWakeUp(false, 2);
+        BarkingDog.shouldWakeUp(true, 8);
+        BarkingDog.shouldWakeUp(true, -1);
     }
 }
